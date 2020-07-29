@@ -1,4 +1,3 @@
-//스택
 #include <iostream>
 #include <string.h>
 
