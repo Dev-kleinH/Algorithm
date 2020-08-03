@@ -1,5 +1,3 @@
-#Algorithm
-
 # STL
 : Standard Template Library의 약자로서, 알고리즘, 컨테이너, 함수, 이터레이터 등으로 이루어져있다.
 
@@ -46,7 +44,9 @@
 		- 들어간 순서와 상관없이 우선순위가 높은 데이터가 먼저 나온다
 		- 내부적으로 의 heap 과 관련된 함수들을 사용하여 구현
 
- 
-  
-  
-6. 출처 : https://purduecho.github.io/stl/	 
+                            출처 : https://purduecho.github.io/stl/	 
+
+# 런타임 에러 
+1. 변수 크기 초과 (오버플로우)
+
+
