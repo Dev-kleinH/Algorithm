@@ -48,5 +48,10 @@
 
 # 런타임 에러 
 1. 변수 크기 초과 (오버플로우)
+2. cin, cout ->  세줄 코드 추가 or scanf, printf
+	* ios::sync_with_stdio(false)
+	* cin.tie(NULL)
+	* cout.tie(NULL)
+    
 
 
